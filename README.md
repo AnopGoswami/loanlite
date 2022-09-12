@@ -47,7 +47,7 @@ If you have make utility installed then you just need to change .env file as per
 composer install && make run
 ```
 
-## Run unit/fetaure test:
+## Run unit/feature test:
 
 ```
 make test
