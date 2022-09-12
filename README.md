@@ -8,6 +8,7 @@ which can be used by customers to register, login and apply for loans. Admin use
 ## Api resources:
 
 Api Documentation : https://documenter.getpostman.com/view/8736410/2s7YYoBmR3
+
 Postman Collection : https://www.getpostman.com/collections/13bc7c2ed5fc1818dd0d
 
 
